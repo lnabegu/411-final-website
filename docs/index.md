@@ -34,7 +34,7 @@ There is a compiled binary, `finalproject-rawr/Engine/bin/prog_sdl`, which you s
 ---
 
 ## 🚀 Demo
-https://youtu.be/LoDTuehBhoo
+[DEMO VIDEO](https://youtu.be/LoDTuehBhoo)
 
 ![Alt text](Demo1.png "Demo1")
 ![Alt text](Demo2.png "Demo2")
