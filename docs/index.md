@@ -1,9 +1,9 @@
 ---
-title: Project Title
-theme: minimal
+title: Phlappy Byrd Engine
 ---
 
 #  Phlappy Byrd Engine 
+By: Lauren Lee, Ayush Tibrewal, Lailah Nabegu
 > Make your own custom Phlappy Bird game!
 ---
 
@@ -13,13 +13,10 @@ theme: minimal
 3. [⚙️ Getting Started](#getting-started)  
    - [Prerequisites](#prerequisites)  
    - [Installation](#installation)  
-4. [🚀 Usage](#usage)  
-5. [📐 Architecture](#architecture)  
-6. [🔌 API Reference](#api-reference)  
-7. [🤝 Contributing](#contributing)  
-8. [🛣️ Roadmap](#roadmap)  
-9. [📄 License](#license)  
-10. [✉️ Contact](#contact)  
+4. [🚀 Demo](#demo)  
+5. [📐 Architecture](#architecture)   
+8. [⚰️ Post Mortem](#post-mortem)  
+
 
 ---
 
