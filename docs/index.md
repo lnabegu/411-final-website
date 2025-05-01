@@ -4,7 +4,6 @@ title: Phlappy Byrd Engine
 
 #  Phlappy Byrd Engine 
 By: Lauren Lee, Ayush Tibrewal, Lailah Nabegu
-> Make your own custom Phlappy Bird game!
 ---
 
 ## 📑 Table of Contents
