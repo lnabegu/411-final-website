@@ -3,10 +3,8 @@ title: Project Title
 theme: minimal
 ---
 
-#  Project Title  
-theme: minimal
-> A one-sentence elevator pitch about what this does.
-
+#  Phlappy Byrd Engine 
+> Make your own custom Phlappy Bird game!
 ---
 
 ## 📑 Table of Contents
