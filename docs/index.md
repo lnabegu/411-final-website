@@ -1,5 +1,5 @@
 ---
-title: Phlappy Byrd Engine
+title: Phlappay Byrd Engine
 ---
 
 #  Phlappy Byrd Engine 
@@ -19,14 +19,17 @@ By: Lauren Lee, Ayush Tibrewal, Lailah Nabegu
 
 
 ---
+---
 
 ## 📖 Overview
-Describe your project in a couple of paragraphs.  
-> **Why it matters:** Explain the problem you’re solving.
-
+For our final project, we decided to create an engine that allows users to load their game logic/assets, and develop their own version of Phlappay Bird. There is also a level editor GUI that allows users to design all 3-levels of their game, add and delete pipes, and change pipe gap, and game speed. In the demo section, there is a video with a showing a Phlappy Byrd we built in our engine.  
 ---
 
 ## ✨ Features
-- ✅ **Feature One** – short description  
-- 🚀 **Feature Two** – short description  
-- 🔒 **Feature Three** – short description  
+- 🖌️ **Level Editor** – Allows users to design the 3 levels of their game. 
+- 🗄️ **Resource Manager** – For loading and unloading resources efficiently.
+- 📈 **Data Driven Structure* – So that users can easily add their own gameplay logic. 
+- 😲 **WOW Factor* – Insert wow factor here. 
+
+## 📐 Architecture
+![Alt text](./docs/PNG-image.png "Engine Architecture")
