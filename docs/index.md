@@ -2,7 +2,7 @@
 title: Phlappay Byrd Engine
 ---
 
-#  Phlappy Byrd Engine 
+#  Phlappay Byrd Engine 
 By: Lauren Lee, Ayush Tibrewal, Lailah Nabegu
 
 ---
@@ -19,7 +19,7 @@ By: Lauren Lee, Ayush Tibrewal, Lailah Nabegu
 ---
 
 ## 📖 Overview
-For our final project, we decided to create an engine develop their own version of Phlappay Byrd. There is also a level editor GUI that allows users to design all 3-levels of their game, add and delete pipes, and change pipe gap, and game speed. In the demo section, there is a video with a showing a Phlappy Byrd game we built that takes advantage of our engine tools.  
+For our final project, we decided to create an engine develop their own version of Phlappay Byrd. There is also a level editor GUI that allows users to design all 3-levels of their game, add and delete pipes, and change pipe gap, and game speed. In the demo section, there is a video with a showing a Phlappay Byrd game we built that takes advantage of our engine tools.  
  
 ---
 
@@ -45,6 +45,8 @@ After you set the levels, you can compile the game using dub and you should be a
 
 ## 📐 Architecture
 ![Alt text](PNG-image.png "Engine Architecture")
+
+---
 
 ## ⚰️ Post Mortem
 We're generally pretty happy with what we were able to get done in a month. We were able to recreate an old game that users can customize, and we worked pretty efficiently to do so!
