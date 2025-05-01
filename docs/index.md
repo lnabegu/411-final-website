@@ -25,11 +25,11 @@ For our final project, we decided to create an engine develop their own version 
 
 ## ⚙️ Getting Started
 
-Make sure that SDL2 and SDL_ttf are installed. In order to run the level editor run: 
+Make sure that SDL2 and SDL_ttf are installed. In order to run the level editor run (from /Engine/): 
 ```
-python3 leveleditor.py
+python3 LevelEditor/leveleditor.py
 ```
-After you set the levels, you can compile the game using dub and you should be able to play!
+After you set the levels, you can compile the game using `dub` and you should be able to play!
 
 ---
 
@@ -40,6 +40,27 @@ After you set the levels, you can compile the game using dub and you should be a
 
 
 ## 📜 Documentation
+(App)[app.html]
+
+(Camera)[camera.html]
+
+(Component)[component.html]
+
+(GameApplication)[gameapplication.html]
+
+(GameObject)[gameobject.html]
+
+(Music)[music.html]
+
+(ResourceManager)[resourcemanager.html]
+
+(SceneTree)[scenetree.html]
+
+(Script)[script.html]
+
+(SDLAbstraction)[sdl_abstraction.html]
+
+(Text)[text.html]
 
 ---
 
@@ -52,4 +73,4 @@ After you set the levels, you can compile the game using dub and you should be a
 We're generally pretty happy with what we were able to get done in a month. We were able to recreate an old game that users can customize, and we worked pretty efficiently to do so!
 However we would've definitely liked to add more options for customizing (ex: changing backgrounds/sprites, modifying physics, and adding levels). It would have been fun to develop a more general-purpose engine for horizontal scroll games, where people could even import their own game logic or scripts. 
 
-If we had more time, we could have made the logic more modular and extensible so that at least players could upload assets and define more rules of the game. We also could have added sound effects and a score-tracking system! Nonetheless, this project was a great opportunity to combine many of the concepts we learned this semester to make a fun game. We hope you enjoy Phlapping!
+If we had more time, we could have made the logic more modular and extensible so that at least players could upload assets and define more rules of the game. We also could have added sound and camera effects. We implemented the camera to function as a wrapper around the SDL RenderCopy and RenderCopyEx functions, so adding additional transformations based on user scripting or game events would be very feasible. Nonetheless, this project was a great opportunity to combine many of the concepts we learned this semester to make a fun game. We hope you enjoy Phlappaying!
