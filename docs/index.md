@@ -23,6 +23,7 @@ By: Lauren Lee, Ayush Tibrewal, Lailah Nabegu
 
 ## 📖 Overview
 For our final project, we decided to create an engine develop their own version of Phlappay Byrd. There is also a level editor GUI that allows users to design all 3-levels of their game, add and delete pipes, and change pipe gap, and game speed. In the demo section, there is a video with a showing a Phlappy Byrd game we built that takes advantage of our engine tools.  
+
 ---
 
 ## ✨ Features
