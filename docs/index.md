@@ -22,7 +22,7 @@ By: Lauren Lee, Ayush Tibrewal, Lailah Nabegu
 ---
 
 ## 📖 Overview
-For our final project, we decided to create an engine that allows users to load their game logic/assets, and develop their own version of Phlappay Bird. There is also a level editor GUI that allows users to design all 3-levels of their game, add and delete pipes, and change pipe gap, and game speed. In the demo section, there is a video with a showing a Phlappy Byrd we built in our engine.  
+For our final project, we decided to create an engine develop their own version of Phlappay Byrd. There is also a level editor GUI that allows users to design all 3-levels of their game, add and delete pipes, and change pipe gap, and game speed. In the demo section, there is a video with a showing a Phlappy Byrd game we built that takes advantage of our engine tools.  
 ---
 
 ## ✨ Features
@@ -31,5 +31,7 @@ For our final project, we decided to create an engine that allows users to load 
 - 📈 **Data Driven Structure* – So that users can easily add their own gameplay logic. 
 - 😲 **WOW Factor* – Insert wow factor here. 
 
+---
+
 ## 📐 Architecture
-![Alt text](./docs/PNG-image.png "Engine Architecture")
+![Alt text](PNG-image.png "Engine Architecture")
