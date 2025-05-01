@@ -25,16 +25,20 @@ For our final project, we decided to create an engine develop their own version 
 
 ## ⚙️ Getting Started
 
-Make sure that SDL2 and SDL_ttf are installed. In order to run the level editor run (from /Engine/): 
-```
-python3 LevelEditor/leveleditor.py
-```
-After you set the levels, you can compile the game using `dub` and you should be able to play!
+Make sure that SDL2 and SDL_ttf are installed. You may also need to install pygame with `pip install pygame` for the level editor.
+
+You can clone the project through this link: https://github.com/Spring25BuildingGameEngines/finalproject-rawr.git
+
+There is a compiled binary, `finalproject-rawr/Engine/bin/prog_sdl`, which you should run from within the Engine directory (but not within bin). To recompile and execute, simply run `dub`.
 
 ---
 
 ## 🚀 Demo
-[INSERT DEMO HERE]
+https://youtu.be/LoDTuehBhoo
+
+![Alt text](Demo1.png "Demo1")
+![Alt text](Demo2.png "Demo2")
+![Alt text](Demo3.png "Demo3")
 
 ---
 
@@ -49,8 +53,6 @@ After you set the levels, you can compile the game using `dub` and you should be
 <a href="gameapplication.html" target="_blank">GameApplication</a>
 
 <a href="gameobject.html" target="_blank">GameObject</a>
-
-<a href="music.html" target="_blank">Music</a>
 
 <a href="resourcemanager.html" target="_blank">ResourceManager</a>
 
